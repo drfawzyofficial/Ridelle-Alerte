@@ -426,7 +426,7 @@ footer {
     font-size: 20px;
     font-weight: 300;
     position: relative;
-    background: #445565 url(../../Content/images/descriptions_bg.jpg) no-repeat left top;
+    background: #445565 url(/assets/images/descriptions_bg.jpg) no-repeat left top;
     background-size: contain; }
     @media only screen and (max-width: 572px) {
       #landing #description {
@@ -678,7 +678,7 @@ footer {
             max-width: 100%; } }
   #landing #contact {
     position: relative;
-    background: #445565 url(../../Content/images/form_bg.png) no-repeat left top;
+    background: #445565 url(/assets/images/form_bg.png) no-repeat left top;
     background-size: cover;
     padding: 165px 0 96px 0; }
     @media only screen and (max-width: 592px) {
@@ -732,7 +732,7 @@ footer {
       -webkit-appearance: none;
       -webkit-border-radius: 0px;
       appearance: none;
-      background: url("../../Content/images/arrow.png") no-repeat 97% 50% #ffffff; }
+      background: url("/assets/images/arrow.png") no-repeat 97% 50% #ffffff; }
     #landing #contact #form input, #landing #contact #form select {
       width: 100%;
       display: block;
