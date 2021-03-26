@@ -680,7 +680,7 @@ footer {
     position: relative;
     background: #445565 url(/assets/images/form_bg.png) no-repeat left top;
     background-size: cover;
-    padding: 165px 0 96px 0; }
+    padding: 50px 0; }
     @media only screen and (max-width: 592px) {
       #landing #contact {
         padding: 80px 0 80px 0; } }
@@ -917,3 +917,7 @@ footer {
       top: 50%;
       transform: translateY(-50%);
       box-shadow: 0px 19px 67px -26px rgba(0, 0, 0, 0.23); }
+
+      .contactUSBtn {
+        padding: 1.5rem 1rem;
+      }
