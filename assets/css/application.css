@@ -498,7 +498,7 @@ footer {
           filter: FlipH;
           -ms-filter: "FlipH"; } }
   #landing #table {
-    margin: 125px 0 180px 0; }
+    padding: 50px 0 }
     @media only screen and (max-width: 592px) {
       #landing #table {
         margin: 80px 0 80px 0; } }
@@ -712,7 +712,9 @@ footer {
         font-family: 'Rubik', sans-serif;
         font-weight: normal;
         font-size: 16px;
-        height: 18px; }
+        background-color: #fff;
+        padding: 8px;
+        border: 1px solid #ff0000; }
     #landing #contact #form .btn-container {
       display: block;
       text-align: center; }
