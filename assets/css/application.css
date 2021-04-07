@@ -36,7 +36,6 @@
 }
 
 .forListItem {
-    color: #445565;
     margin-bottom: 10px;
     font-size: 16px;
     line-height: 30px;
@@ -716,11 +715,15 @@ footer #footer-right-container {
   color: #fff;
   padding: 160px 0;
   line-height: 30px;
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 300;
   position: relative;
   background: #445565 url(/assets/images/descriptions_bg.jpg) no-repeat left top;
   background-size: contain;
+}
+
+#landing #description  p {
+  line-height: 1.7;
 }
 
 @media only screen and (max-width: 572px) {
