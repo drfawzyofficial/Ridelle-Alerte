@@ -936,7 +936,6 @@ footer #footer-right-container {
 }
 
 #landing #specifications {
-  background-color: #f7f7f7;
   padding: 50px 0;
 }
 
@@ -1080,7 +1079,6 @@ footer #footer-right-container {
 
 @media only screen and (max-width: 992px) {
   #landing #connectors .connectors-right-title {
-    margin-top: 100px;
     min-height: unset;
     padding-bottom: 10px;
   }
