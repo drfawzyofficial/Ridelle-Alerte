@@ -1398,11 +1398,11 @@ footer #footer-right-container {
     margin-top: 8px;
   }
   .logoBottom h3 {
-    font-size: 18px !important;
+    font-size: 15px !important;
   }
   .logoBottom img {
-    height: 50px !important;
-    width: 100pX !important;
+    height: 40px !important;
+    width: 80px !important;
   }
 }
 
