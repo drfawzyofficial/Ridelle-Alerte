@@ -1389,6 +1389,9 @@ footer #footer-right-container {
   #partners {
     padding-bottom: 80px;
   }
+  .ccs {
+    margin-top: 8px;
+  }
 }
 
 #partners h3 {
