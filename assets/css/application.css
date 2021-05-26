@@ -1389,6 +1389,11 @@ footer #footer-right-container {
   margin-left: 12px;
 }
 
+.logoBottom h3 {
+  color: #445565;
+  font-weight: 700;
+}
+
 @media only screen and (max-width: 592px) {
   #partners {
     padding-bottom: 80px;
